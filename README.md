@@ -40,6 +40,6 @@ This project is a 2D platformer game created using the Pygame library in Python.
 5. **Score System**: Score is displayed at the top right of the screen.
 
 ## Contributing
-Credits: Tech With Tim
+Credits: Tech With Tim <br>
 Playlist: [Pygame Programming Tutorials](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
 
